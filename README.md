@@ -2,7 +2,7 @@
 
 ![Suze Shardlow giving a tech talk at Ticketmaster UK](https://github.com/SuzeShardlow/SuzeShardlow.github.io/blob/master/images/public_speaking/ticketmaster.jpg)
 
-I am a coding instructor, community manager and software engineer based in London, United Kingdom.
+I am a coding instructor, community manager, tech event host and software engineer based in London, United Kingdom.
 
 My personal website is at [suze.dev](https://suze.dev), where you'll find my [blog](https://suze.dev/blog), [tech talks](https://suze.dev/public_speaking), [coding workshops](https://suze.dev/public_speaking) and [coding projects](https://suze.dev/coding_projects).
 
