@@ -4,7 +4,7 @@
 
 I am a coding instructor, community manager, tech event host and software engineer based in London, United Kingdom.
 
-My personal website is at [suze.dev](https://suze.dev), where you'll find my [blog](https://suze.dev/blog), [tech talks](https://suze.dev/public_speaking), [coding workshops](https://suze.dev/public_speaking) and [coding projects](https://suze.dev/coding_projects).
+My personal website is at [suze.dev](https://suze.dev), where you'll find my [blog](https://suze.dev/blog), [tech talks](https://suze.dev/public_speaking), [coding workshops](https://suze.dev/public_speaking), [coding projects](https://suze.dev/coding_projects) and [sketchnotes](https://suze.dev/sketchnotes/).
 
 You can also find me on [YouTube](https://www.youtube.com/channel/UCF-o7cvylZZjRkoZhe1T5zw/videos).
 
