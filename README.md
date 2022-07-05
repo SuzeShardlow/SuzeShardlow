@@ -2,7 +2,7 @@
 
 ![Suze Shardlow giving a tech talk at Ticketmaster UK](https://github.com/SuzeShardlow/SuzeShardlow.github.io/blob/master/images/public_speaking/ticketmaster.jpg)
 
-I am a coding instructor, community manager, tech event host and software engineer based in London, United Kingdom.
+I am a coding instructor, community manager, tech event host and software engineer based in the United Kingdom.
 
 I am currently head of developer community at [Redis](https://redis.com) and community lead at Ladies of Code London.
 
