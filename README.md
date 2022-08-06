@@ -1,6 +1,6 @@
 # Hi!  I'm Suze.
 
-![Suze Shardlow giving a tech talk at Ticketmaster UK](https://github.com/SuzeShardlow/SuzeShardlow.github.io/blob/master/images/public_speaking/ticketmaster.jpg)
+![Suze Shardlow giving a tech talk at Ticketmaster UK](https://github.com/SuzeShardlow/SuzeShardlow.github.io/blob/main/images/public_speaking/ticketmaster.jpg)
 
 I am a coding instructor, community manager, tech event host and software engineer based in the United Kingdom.
 
