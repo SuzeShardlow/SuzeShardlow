@@ -4,7 +4,7 @@
 
 I am a developer relations leader, coding instructor, community manager, tech event host and software engineer based in the United Kingdom.
 
-I am currently head of developer community at [Redis](https://redis.com) and community lead at Ladies of Code London.
+I am a Developer Relations Strategist and also community lead at Ladies of Code London.
 
 My personal website is at [suze.dev](https://suze.dev), where you'll find my [blog](https://suze.dev/blog), [tech talks](https://suze.dev/public_speaking), [coding workshops](https://suze.dev/public_speaking), [coding projects](https://suze.dev/coding_projects) and [sketchnotes](https://suze.dev/sketchnotes/).
 
